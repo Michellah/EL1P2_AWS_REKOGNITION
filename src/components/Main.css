@@ -1,0 +1,28 @@
+#body {
+    background-image: url(../image/image.webp);
+    height: 100vh;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button {
+    background-color: black;
+    color: rgb(236, 234, 229);
+    font-size: large;
+    padding: 1em;
+    position: fixed;
+    top: 50%;
+}
+button:hover{
+    background-color: rgb(236, 234, 229);
+    color: black;
+    border: 0;
+}
+.title{
+    color: rgb(236, 234, 229);
+    padding: 0.5em 0.1em;
+    font: small;
+    font-size: 8vw;
+    margin: auto;
+}
